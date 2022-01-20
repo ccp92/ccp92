@@ -1,10 +1,9 @@
 ## Hi there, I'm Chris 👋
 
-I'm a software engineer currently working with [Made Tech](https://github.com/madetech) since July 2018.
+I'm a software engineer currently working with [Babylon](https://www.babylonhealth.com/en-gb).
 
 Can often be found practicing TDD and playing with new javascript frameworks (my current mini obessession is Gatsby).
 
-- I’m currently working with the Department for International Trade.
 - How to reach me: mail@chrisparsons.dev
 - Pronouns: he/him
 
